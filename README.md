@@ -11,6 +11,6 @@ The vigenere folder contains two files: An implementation of the encryption/decr
 
 3. Encrypt and Decrypt with the Vigenere scheme: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jhb10c/cryptoalgo/main?filepath=vigenere%2FBvigenerecipher.ipynb)
 
-4. An Attack on the Vigenere Cipher: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jhb10c/cryptoalgo/main?filepath=vigenere%2FLAB2Sols.ipynb)
+4. An Attack on the Vigenere Cipher: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jhb10c/cryptoalgo/main?filepath=vigenere%2FBvigenerecipher.ipynb)
 
 
