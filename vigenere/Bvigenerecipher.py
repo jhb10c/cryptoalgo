@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# ## Vignere Cipher
+# ## Vigenere Cipher
 # 
 # The vigenere cipher is a private key encryption scheme.  
 # 
