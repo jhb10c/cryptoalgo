@@ -5,7 +5,7 @@ The primenumbergenerator folder contains two algorithms: Miller-Rabin Test and a
 
 1. Interactive with the Miller-Rabin Test: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jhb10c/cryptoalgo/main?filepath=PrimeNumberGenerator%2FMRPrime.ipynb)
 
-2. Generate a random prime number up to 32 bits length in under a minute. Note that this uses random.randint. This is not a true source of randomness. Therefore the primes appear random but are actually not. This algorithm would produce a truly random prime if random.randint is replaced with a source of true randomness: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jhb10c/cryptoalgo/main?filepath=PrimeNumberGenerator%2FPrimeNumberGenerator.ipynb)
+2. Prime Number generator: Generate a random prime number up to 32 bits length in under a minute. Note that this uses random.randint. This is not a true source of randomness. Therefore the primes appear random but are actually not. This algorithm would produce a truly random prime if random.randint is replaced with a source of true randomness. [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jhb10c/cryptoalgo/main?filepath=PrimeNumberGenerator%2FPrimeNumberGenerator.ipynb)
 
 The vigenere folder contains two files: An implementation of the encryption/decryption of the vigenere cipher and an attack on the vigenere cipher that completely recovers the private key for sufficently large messages. This attack on the vigenere cipher is a programming assignment from Dr. John Katz's coursera course "Cryptography".
 
