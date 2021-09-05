@@ -9,8 +9,7 @@ The primenumbergenerator folder contains two algorithms: Miller-Rabin Test and a
 
 The vigenere folder contains two files: An implementation of the encryption/decryption of the vigenere cipher and an attack on the vigenere cipher that completely recovers the private key for sufficently large messages. This attack on the vigenere cipher is a programming assignment from Dr. John Katz's coursera course "Cryptography".
 
-3. Encrypt and Decrypt with the Vigenere scheme: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jhb10c/cryptoalgo/main?filepath=vigenere%2FLAB2Sols.ipynb)
-
-4. An Attack on the Vigenere Cipher: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jhb10c/cryptoalgo/main?filepath=vigenere%2FBvigenerecipher.ipynb)
+3. Encrypt and Decrypt with the Vigenere scheme:  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jhb10c/cryptoalgo/main?filepath=vigenere%2FBvigenerecipher.ipynb)
 
 
+4. An Attack on the Vigenere Cipher: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jhb10c/cryptoalgo/main?filepath=vigenere%2FLAB2Sols.ipynb)
